@@ -20,7 +20,6 @@ Throughout this comprehensive course, you'll master a massive range of tools and
 - Game development with Turtle  
 
 ### 🌐 Web Development
-- Frontend: HTML5, CSS3, Bootstrap 4  
 - Backend: Flask, REST APIs, WTForms  
 - Authentication & deployment (GitHub Pages, Heroku, Gunicorn)  
 - Web scraping: Beautiful Soup, Selenium, Requests  
@@ -54,12 +53,12 @@ By the end of this course, you’ll have a **portfolio of 100+ projects** that s
 
 ## 🎓 What You'll Get
 
-- 🎥 Video Lectures  
+
 - 🧩 Code Challenges & Exercises  
 - 💻 Fully Fledged Projects  
 - ❓ Quizzes  
 - 📚 Cheatsheets & Resources  
-- 🧠 Insights from a world-class tutor  
+
 
 ---
 
